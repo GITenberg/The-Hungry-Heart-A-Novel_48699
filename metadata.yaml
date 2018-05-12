@@ -1,4 +1,8 @@
 _repo: The-Hungry-Heart-A-Novel_48699
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48699-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Phillips, David Graham
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/235
     wikipedia: http://en.wikipedia.org/wiki/David_Graham_Phillips
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48699#The-Hungry-Heart-A-Novel
 gutenberg_issued: '2015-04-13'
 gutenberg_type: Text
 identifiers:
